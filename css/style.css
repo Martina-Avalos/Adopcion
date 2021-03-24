@@ -286,6 +286,7 @@ form {
 .formGroup .input {
     border: none;
     width: 80%;
+    padding: 0.1em 0.2em;
 }
 
 .formGroup textarea,
